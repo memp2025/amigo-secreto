@@ -20,4 +20,8 @@ Uma aplicação simples para adicionar nomes e sortear o amigo secreto de forma 
 2. Digite o nome dos amigos no campo de texto e clique em "Adicionar".
 3. Após adicionar todos os nomes, clique em "Sortear amigo" para ver o resultado.
 
+ ## 📂 Repositório
+Você pode acessar o código-fonte e acompanhar o projeto neste link:  
+[https://github.com/memp2025/amigo-secreto](https://github.com/memp2025/amigo-secreto)
+
 
